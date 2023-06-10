@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(49, 48, 48);
+}
+iframe
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+p{
+    color: white;
+}
+h1
+{
+    color: white;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS';
+}
+h2
+{
+    color: white;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS';
+}
+ul{
+    color: white;
+}
+ol{
+    color: white;
+}
+a:link
+{
+    color: green;
+    text-decoration: underline;
+}
+a:visited{
+    color: rgb(195, 0, 255);
+}
+a:hover{
+    background-color: rgb(187, 181, 181);
+}
+a:active{
+    color: blue;
+}
+#logomarca
+{
+    width: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+p.passo strong{
+    color: rgb(63, 1, 63);
+    background-color: blueviolet;
+    font-size: 42px;
+}
+p.passo em{
+    font-size: 26px;
+}
